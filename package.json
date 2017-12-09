@@ -1,0 +1,23 @@
+{
+  "name": "storefrontcli",
+  "version": "1.0.0",
+  "description": "amazon-like storefront",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvnoahherron/storeFrontCLI.git"
+  },
+  "author": "noah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvnoahherron/storeFrontCLI/issues"
+  },
+  "homepage": "https://github.com/nvnoahherron/storeFrontCLI#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
+}
